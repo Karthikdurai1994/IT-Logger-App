@@ -1,0 +1,62 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Hard Disk 899 down issue resolved",
+      "tech": "Sara Wilson",
+      "attention": false,
+      "date": "2021-05-25T10:13:07.379Z"
+    },
+    {
+      "id": 2,
+      "message": "Wifi Driver is not working for computer 786",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2021-05-25T10:13:18.597Z"
+    },
+    {
+      "message": "Server Room 202 needs Air Ventillation",
+      "attention": true,
+      "tech": "Vignesh Mahadevan",
+      "date": "2021-05-25T10:14:25.574Z",
+      "id": 3
+    }
+  ],
+  "technicians": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 4,
+      "firstName": "Durai",
+      "lastName": "Rajabathar"
+    },
+    {
+      "firstName": "Sundari",
+      "lastName": "Durai",
+      "id": 5
+    },
+    {
+      "firstName": "Gayathri",
+      "lastName": "Durai",
+      "id": 6
+    },
+    {
+      "firstName": "Vignesh",
+      "lastName": "Mahadevan",
+      "id": 7
+    }
+  ]
+}
